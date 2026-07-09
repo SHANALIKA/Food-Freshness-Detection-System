@@ -35,7 +35,7 @@ Google Colab / Jupyter Notebook
 
 A custom dataset will be collected using Android smartphone cameras from Sri Lankan markets, supermarkets, and home environments.
 
-Food Categories
+##Food Categories
 Tomato
 Banana
 Mango
